@@ -1,0 +1,25 @@
+.text-grey {
+    color: #444;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.center-600 {
+    max-width: 600px;
+    margin: auto;
+}
+
+.center-1200 {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.rounded {
+    border-radius: 50%;
+}
